@@ -1,0 +1,543 @@
+[
+    {
+      "name": "George Washington",
+      "term": "1789-1797",
+      "political_party": "None",
+      "views": {
+        "economy": "Supported a strong central government and the establishment of a national bank",
+        "foreign_policy": "Neutrality in foreign affairs",
+        "civil_rights": "Owned slaves but freed them in his will",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "John Adams",
+      "term": "1797-1801",
+      "political_party": "Federalist",
+      "views": {
+        "economy": "Supported a strong central government and tariffs",
+        "foreign_policy": "Avoided war with France",
+        "civil_rights": "Alien and Sedition Acts limited civil liberties",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Thomas Jefferson",
+      "term": "1801-1809",
+      "political_party": "Democratic-Republican",
+      "views": {
+        "economy": "Favored agrarianism and opposed a strong central bank",
+        "foreign_policy": "Louisiana Purchase and Embargo Act",
+        "civil_rights": "Owned slaves, but supported individual liberties",
+        "healthcare": "No specific policy",
+        "environment": "Believed in westward expansion"
+      }
+    },
+    {
+      "name": "James Madison",
+      "term": "1809-1817",
+      "political_party": "Democratic-Republican",
+      "views": {
+        "economy": "Opposed a strong central bank initially, later supported it",
+        "foreign_policy": "War of 1812",
+        "civil_rights": "Owned slaves, supported individual liberties",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "James Monroe",
+      "term": "1817-1825",
+      "political_party": "Democratic-Republican",
+      "views": {
+        "economy": "Supported internal improvements and protective tariffs",
+        "foreign_policy": "Monroe Doctrine",
+        "civil_rights": "Owned slaves, supported gradual abolition in the Missouri Compromise",
+        "healthcare": "No specific policy",
+        "environment": "Supported westward expansion"
+      }
+    },
+    {
+      "name": "John Quincy Adams",
+      "term": "1825-1829",
+      "political_party": "Democratic-Republican",
+      "views": {
+        "economy": "Supported internal improvements and a national university",
+        "foreign_policy": "Promoted international trade and peace",
+        "civil_rights": "Opposed slavery",
+        "healthcare": "No specific policy",
+        "environment": "Supported scientific advancement and exploration"
+      }
+    },
+    {
+      "name": "Andrew Jackson",
+      "term": "1829-1837",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Opposed the national bank, supported state banks",
+        "foreign_policy": "Assertive stance in foreign affairs",
+        "civil_rights": "Supported Indian Removal Act, owned slaves",
+        "healthcare": "No specific policy",
+        "environment": "Supported westward expansion"
+      }
+    },
+    {
+      "name": "Martin Van Buren",
+      "term": "1837-1841",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Supported limited government intervention in the economy",
+        "foreign_policy": "Maintained neutrality",
+        "civil_rights": "Opposed expansion of slavery",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "William Henry Harrison",
+      "term": "1841",
+      "political_party": "Whig",
+      "views": {
+        "economy": "Supported a national bank and protective tariffs",
+        "foreign_policy": "No specific policy due to short term",
+        "civil_rights": "No specific policy due to short term",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "John Tyler",
+      "term": "1841-1845",
+      "political_party": "Whig (expelled from party)",
+      "views": {
+        "economy": "Supported states' rights and opposed a national bank",
+        "foreign_policy": "Annexation of Texas",
+        "civil_rights": "Owned slaves, supported states' rights",
+        "healthcare": "No specific policy",
+        "environment": "Supported westward expansion"
+      }
+    },
+    {
+      "name": "James K. Polk",
+      "term": "1845-1849",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Supported lower tariffs and a sub-treasury system",
+        "foreign_policy": "Manifest Destiny and Mexican-American War",
+        "civil_rights": "Owned slaves, supported expansion of slavery",
+        "healthcare": "No specific policy",
+        "environment": "Supported westward expansion"
+      }
+    },
+    {
+      "name": "Zachary Taylor",
+      "term": "1849-1850",
+      "political_party": "Whig",
+      "views": {
+        "economy": "No strong stance, focused on military leadership",
+        "foreign_policy": "Maintained peace with foreign nations",
+        "civil_rights": "Owned slaves, opposed Compromise of 1850",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Millard Fillmore",
+      "term": "1850-1853",
+      "political_party": "Whig",
+      "views": {
+        "economy": "Supported protective tariffs",
+        "foreign_policy": "Opened trade with Japan",
+        "civil_rights": "Supported Compromise of 1850, including Fugitive Slave Act",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Franklin Pierce",
+      "term": "1853-1857",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Supported expansion of infrastructure",
+        "foreign_policy": "Expansionist, sought to acquire Cuba",
+        "civil_rights": "Supported Kansas-Nebraska Act, exacerbating sectional tensions",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "James Buchanan",
+      "term": "1857-1861",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Supported limited government intervention",
+        "foreign_policy": "Maintained neutrality",
+        "civil_rights": "Tried to maintain peace between pro-slavery and anti-slavery factions",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Abraham Lincoln",
+      "term": "1861-1865",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported a national bank, tariffs, and internal improvements",
+        "foreign_policy": "Focused on preserving the Union",
+        "civil_rights": "Emancipation Proclamation, supported abolition of slavery",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Andrew Johnson",
+      "term": "1865-1869",
+      "political_party": "Democratic (Unionist)",
+      "views": {
+        "economy": "Supported states' rights, opposed Reconstruction policies",
+        "foreign_policy": "Maintained neutrality",
+        "civil_rights": "Opposed Radical Reconstruction, vetoed civil rights legislation",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Ulysses S. Grant",
+      "term": "1869-1877",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported gold standard, industrial growth",
+        "foreign_policy": "Promoted peaceful arbitration",
+        "civil_rights": "Supported Reconstruction and civil rights for freed slaves",
+        "healthcare": "No specific policy",
+        "environment": "Supported conservation efforts"
+      }
+    },
+    {
+      "name": "Rutherford B. Hayes",
+      "term": "1877-1881",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported gold standard, civil service reform",
+        "foreign_policy": "Maintained neutrality",
+        "civil_rights": "Ended Reconstruction, reducing federal support for black Americans",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "James A. Garfield",
+      "term": "1881",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported civil service reform",
+        "foreign_policy": "No specific policy due to short term",
+        "civil_rights": "Supported civil rights for black Americans",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Chester A. Arthur",
+      "term": "1881-1885",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported civil service reform, modernized Navy",
+        "foreign_policy": "Maintained neutrality",
+        "civil_rights": "Signed Chinese Exclusion Act",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Grover Cleveland",
+      "term": "1885-1889, 1893-1897",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Supported gold standard, opposed high tariffs",
+        "foreign_policy": "Non-interventionist",
+        "civil_rights": "Opposed civil rights legislation for black Americans",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Benjamin Harrison",
+      "term": "1889-1893",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported high tariffs, industrial growth",
+        "foreign_policy": "Expansionist, promoted Pan-Americanism",
+        "civil_rights": "Supported voting rights for black Americans",
+        "healthcare": "No specific policy",
+        "environment": "Supported conservation efforts"
+      }
+    },
+    {
+      "name": "William McKinley",
+      "term": "1897-1901",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported high tariffs, gold standard",
+        "foreign_policy": "Spanish-American War, imperialism",
+        "civil_rights": "No specific policy",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "term": "1901-1909",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported antitrust laws, labor rights",
+        "foreign_policy": "Big Stick diplomacy, Panama Canal",
+        "civil_rights": "Supported some civil rights for black Americans",
+        "healthcare": "No specific policy",
+        "environment": "Supported conservation, established national parks"
+      }
+    },
+    {
+      "name": "William Howard Taft",
+      "term": "1909-1913",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported antitrust laws, tariff reform",
+        "foreign_policy": "Dollar Diplomacy",
+        "civil_rights": "No specific policy",
+        "healthcare": "No specific policy",
+        "environment": "Supported conservation efforts"
+      }
+    },
+    {
+      "name": "Woodrow Wilson",
+      "term": "1913-1921",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Supported Federal Reserve, antitrust laws",
+        "foreign_policy": "World War I, League of Nations",
+        "civil_rights": "Opposed civil rights for black Americans",
+        "healthcare": "Supported some public health initiatives",
+        "environment": "Supported conservation efforts"
+      }
+    },
+    {
+      "name": "Warren G. Harding",
+      "term": "1921-1923",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported pro-business policies, tax cuts",
+        "foreign_policy": "Isolationism",
+        "civil_rights": "No specific policy",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Calvin Coolidge",
+      "term": "1923-1929",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported laissez-faire policies, tax cuts",
+        "foreign_policy": "Isolationism",
+        "civil_rights": "Opposed federal anti-lynching legislation",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Herbert Hoover",
+      "term": "1929-1933",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported limited government intervention during Great Depression",
+        "foreign_policy": "Isolationism",
+        "civil_rights": "No specific policy",
+        "healthcare": "No specific policy",
+        "environment": "No specific policy"
+      }
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "term": "1933-1945",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "New Deal, supported extensive government intervention",
+        "foreign_policy": "World War II, promoted United Nations",
+        "civil_rights": "Supported some civil rights advancements",
+        "healthcare": "Supported Social Security and public health programs",
+        "environment": "Supported conservation and public works projects"
+      }
+    },
+    {
+      "name": "Harry S. Truman",
+      "term": "1945-1953",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Supported Fair Deal, continued New Deal policies",
+        "foreign_policy": "Truman Doctrine, Marshall Plan",
+        "civil_rights": "Desegregated military, supported civil rights",
+        "healthcare": "Proposed national health insurance",
+        "environment": "Supported conservation efforts"
+      }
+    },
+    {
+      "name": "Dwight D. Eisenhower",
+      "term": "1953-1961",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported interstate highway system, balanced budgets",
+        "foreign_policy": "Cold War containment, promoted peace",
+        "civil_rights": "Signed Civil Rights Act of 1957",
+        "healthcare": "No specific policy",
+        "environment": "Supported conservation efforts"
+      }
+    },
+    {
+      "name": "John F. Kennedy",
+      "term": "1961-1963",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Supported tax cuts, economic growth",
+        "foreign_policy": "Cuban Missile Crisis, promoted peace",
+        "civil_rights": "Supported civil rights movement",
+        "healthcare": "Proposed Medicare",
+        "environment": "Supported conservation efforts"
+      }
+    },
+    {
+      "name": "Lyndon B. Johnson",
+      "term": "1963-1969",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Great Society programs, War on Poverty",
+        "foreign_policy": "Vietnam War, promoted peace",
+        "civil_rights": "Signed Civil Rights Act, Voting Rights Act",
+        "healthcare": "Established Medicare and Medicaid",
+        "environment": "Supported environmental protection"
+      }
+    },
+    {
+      "name": "Richard Nixon",
+      "term": "1969-1974",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported wage and price controls, New Federalism",
+        "foreign_policy": "Détente with Soviet Union, China",
+        "civil_rights": "Opposed busing for school desegregation",
+        "healthcare": "Proposed health insurance reform",
+        "environment": "Established Environmental Protection Agency"
+      }
+    },
+    {
+      "name": "Gerald Ford",
+      "term": "1974-1977",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported limited government intervention",
+        "foreign_policy": "Maintained détente, Helsinki Accords",
+        "civil_rights": "Supported civil rights legislation",
+        "healthcare": "No specific policy",
+        "environment": "Supported environmental protection"
+      }
+    },
+    {
+      "name": "Jimmy Carter",
+      "term": "1977-1981",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Supported deregulation, economic stimulus",
+        "foreign_policy": "Human rights focus, Camp David Accords",
+        "civil_rights": "Supported civil rights",
+        "healthcare": "Proposed health care reform",
+        "environment": "Supported environmental protection, energy conservation"
+      }
+    },
+    {
+      "name": "Ronald Reagan",
+      "term": "1981-1989",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Reaganomics, tax cuts, deregulation",
+        "foreign_policy": "Cold War escalation, promoted peace",
+        "civil_rights": "Opposed affirmative action",
+        "healthcare": "No specific policy",
+        "environment": "Reduced environmental regulations"
+      }
+    },
+    {
+      "name": "George H. W. Bush",
+      "term": "1989-1993",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported tax increases, fiscal responsibility",
+        "foreign_policy": "Gulf War, promoted peace",
+        "civil_rights": "Signed Americans with Disabilities Act",
+        "healthcare": "No specific policy",
+        "environment": "Signed Clean Air Act amendments"
+      }
+    },
+    {
+      "name": "Bill Clinton",
+      "term": "1993-2001",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Supported balanced budgets, economic growth",
+        "foreign_policy": "Interventionist, promoted peace",
+        "civil_rights": "Supported civil rights",
+        "healthcare": "Proposed health care reform",
+        "environment": "Supported environmental protection"
+      }
+    },
+    {
+      "name": "George W. Bush",
+      "term": "2001-2009",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported tax cuts, deregulation",
+        "foreign_policy": "War on Terror, promoted peace",
+        "civil_rights": "Supported Patriot Act",
+        "healthcare": "Supported Medicare Part D",
+        "environment": "Reduced environmental regulations"
+      }
+    },
+    {
+      "name": "Barack Obama",
+      "term": "2009-2017",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Supported economic stimulus, tax increases on wealthy",
+        "foreign_policy": "Promoted diplomacy, military intervention",
+        "civil_rights": "Supported same-sex marriage, civil rights",
+        "healthcare": "Established Affordable Care Act",
+        "environment": "Supported environmental protection, climate change action"
+      }
+    },
+    {
+      "name": "Donald Trump",
+      "term": "2017-2021",
+      "political_party": "Republican",
+      "views": {
+        "economy": "Supported tax cuts, deregulation",
+        "foreign_policy": "America First, reduced international commitments",
+        "civil_rights": "Opposed affirmative action, supported law enforcement",
+        "healthcare": "Opposed Affordable Care Act",
+        "environment": "Reduced environmental regulations"
+      }
+    },
+    {
+      "name": "Joe Biden",
+      "term": "2021-present",
+      "political_party": "Democratic",
+      "views": {
+        "economy": "Supported economic stimulus, infrastructure investment",
+        "foreign_policy": "Promoted diplomacy, military withdrawal",
+        "civil_rights": "Supported civil rights, racial equality",
+        "healthcare": "Supported expansion of Affordable Care Act",
+        "environment": "Supported environmental protection, climate change action"
+      }
+    }
+  ]
+  
