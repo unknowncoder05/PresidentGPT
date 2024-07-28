@@ -3,9 +3,9 @@ from openai import OpenAI
 import logging
 
 DEFAULT_COUNTRY = "USA"
-PESEIDENT_DATA_JSON_FILE = 'presidents.json'
+PRESIDENT_DATA_JSON_FILE = 'presidents.json'
 TEMP_DATA_FILE = '.data/temp.json'
-AMOUNT_OF_PRESIDENTS = 2
+AMOUNT_OF_PRESIDENTS = -1
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 client = OpenAI()
@@ -18,7 +18,7 @@ def load_presidents_data(filename):
     logging.info(f"Loaded data for {len(data)} presidents")
     return data
 
-presidents = load_presidents_data(PESEIDENT_DATA_JSON_FILE)[-AMOUNT_OF_PRESIDENTS:]
+presidents = load_presidents_data(PRESIDENT_DATA_JSON_FILE)[-AMOUNT_OF_PRESIDENTS:]
 
 def get_presidents_opinions(prompt, country=DEFAULT_COUNTRY, save_file=True):
     responses = []
@@ -105,14 +105,30 @@ output JSON
                 },
             ],
         temperature=1,
-        max_tokens=256,
         top_p=1,
         frequency_penalty=0,
         presence_penalty=0
     )
-    summary = summary_response.choices[0].message.content.strip()
+    summary = json.loads(summary_response.choices[0].message.content)
     logging.info(f"Summary: {summary}")
     return summary
+
+def print_nice_report(json_data):
+    opinions = json_data.get('opinions', [])
+    
+    if not opinions:
+        print("No opinions found in the data.")
+        return
+    
+    for opinion in opinions:
+        name = opinion.get('name', 'N/A')
+        description = opinion.get('description', 'No description provided.')
+        supporters = opinion.get('supporters', [])
+        
+        print(f"Opinion: {name}")
+        print(f"Description: {description}")
+        print(f"Supporters: {', '.join(supporters) if supporters else 'None'}")
+        print('-' * 50)
 
 prompt = "Inflation is high, what should we do?"
 logging.info("Starting the process to gather and summarize opinions")
@@ -121,9 +137,5 @@ summary = summarize_opinions(opinions)
 
 logging.info("Finished gathering and summarizing opinions")
 
-print("Individual Opinions:")
-for opinion in opinions:
-    print(f"{opinion['president']} says: {opinion['opinion']}")
-
 print("\nSummary of Core Opinions:")
-print(summary)
+print(print_nice_report(summary))
